@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "varun",
+      "email": "varun@123",
+      "password": 12345,
+      "quizzes": [
+        {
+          "id": 1,
+          "title": "Devops",
+          "question": "At its core, Kubernetes is a platform for:",
+          "description": null,
+          "options": {
+            "a": "Provisioning machines (similar to Puppet, Ansible)",
+            "b": "Running and scheduling container applications on a cluster",
+            "c": "Packaging software in containers",
+            "d": "None of the above"
+          },
+          "correct_answer": "b",
+          "result": {
+            "played": 4,
+            "players": [
+              {
+                "id": 1,
+                "name": "Rahul",
+                "point": 60
+              },
+              {
+                "id": 2,
+                "name": "Rishu",
+                "point": 70
+              },
+              {
+                "id": 3,
+                "name": "Riya",
+                "point": 90
+              },
+              {
+                "id": 4,
+                "name": "Shaurab",
+                "point": 60
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Devops",
+          "question": "Which the the currently accepted best practice method for hashing passwords to hash passwords?",
+          "description": "Using bcrypt is the currently accepted best practice for hashing passwords, but a large number of developers still use older and weaker algorithms",
+          "options": {
+            "a": "bcrypt()",
+            "b": "md5()",
+            "c": "hash()",
+            "d": "encode()"
+          },
+          "correct_answer": "a",
+          "result": {
+            "played": 0,
+            "players": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "aniket",
+      "email": "aniket@123",
+      "password": 12345,
+      "quizzes": [
+        {
+          "id": 1,
+          "title": "CMS",
+          "question": "What is moderate comment in WordPress.",
+          "description": null,
+          "options": {
+            "a": "Comments by admin on a post are not published directly unless the visitors provides it. It is called moderation.",
+            "b": "Comments by admin on a post are not published directly unless the clients provides it. It is called moderation.",
+            "c": "Comments by visitors on a post are not published directly unless the admin provides it. It is called moderation.",
+            "d": "None of the above"
+          },
+          "correct_answer": "c",
+          "result": {
+            "played": 4,
+            "players": [
+              {
+                "id": 1,
+                "name": "Aman",
+                "point": 90
+              },
+              {
+                "id": 2,
+                "name": "Rishu",
+                "point": 70
+              },
+              {
+                "id": 3,
+                "name": "Riya",
+                "point": 90
+              },
+              {
+                "id": 4,
+                "name": "Shaurab",
+                "point": 60
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Linux",
+          "question": "Which command can be used to change file access permission bits?",
+          "description": null,
+          "options": {
+            "a": "chmod",
+            "b": "chown",
+            "c": "umask",
+            "d": "chperm"
+          },
+          "correct_answer": "a",
+          "result": {
+            "played": 2,
+            "players": [
+              {
+                "id": 1,
+                "name": "Sweta",
+                "point": 60
+              },
+              {
+                "id": 2,
+                "name": "Rishu",
+                "point": 70
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "aman",
+      "email": "aman@123",
+      "password": 12345,
+      "quizzes": []
+    }
+  ],
+  "global_ranking": [
+    {
+      "id": 1,
+      "name": "Rishu",
+      "email": "rishu@123",
+      "avatar": "",
+      "points": 970
+    },
+    {
+      "id": 2,
+      "name": "Aman",
+      "email": "aman@123",
+      "avatar": "",
+      "points": 1100
+    },
+    {
+      "id": 3,
+      "name": "Prateek",
+      "email": "prateek@123",
+      "avatar": "",
+      "points": 800
+    }
+  ]
+}
