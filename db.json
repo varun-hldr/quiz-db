@@ -150,6 +150,7 @@
       "id": 1,
       "name": "Rishu",
       "email": "rishu@123",
+      "gender": "male",
       "avatar": "",
       "points": 970
     },
@@ -157,6 +158,7 @@
       "id": 2,
       "name": "Aman",
       "email": "aman@123",
+      "gender": "male",
       "avatar": "",
       "points": 1100
     },
@@ -164,8 +166,49 @@
       "id": 3,
       "name": "Prateek",
       "email": "prateek@123",
+      "gender": "male",
       "avatar": "",
       "points": 800
+    },
+    {
+      "id": 4,
+      "name": "Varun",
+      "email": "varun@123",
+      "gender": "male",
+      "avatar": "",
+      "points": 700
+    },
+    {
+      "id": 5,
+      "name": "Aniket",
+      "email": "aniket@123",
+      "gender": "male",
+      "avatar": "",
+      "points": 790
+    },
+    {
+      "id": 6,
+      "name": "Riya",
+      "email": "riya@123",
+      "gender": "female",
+      "avatar": "",
+      "points": 990
+    },
+    {
+      "id": 7,
+      "name": "Ketki",
+      "email": "ketki@123",
+      "gender": "female",
+      "avatar": "",
+      "points": 890
+    },
+    {
+      "id": 8,
+      "name": "Angel",
+      "email": "angel@123",
+      "gender": "female",
+      "avatar": "",
+      "points": 1390
     }
   ]
 }
