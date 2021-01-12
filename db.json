@@ -209,6 +209,14 @@
       "gender": "female",
       "avatar": "",
       "points": 1390
+    },
+    {
+      "id": 9,
+      "name": "Rahul",
+      "email": "rahul@123",
+      "gender": "male",
+      "avatar": "",
+      "points": 1990
     }
   ]
 }
