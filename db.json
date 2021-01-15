@@ -5,6 +5,8 @@
       "name": "varun",
       "email": "varun@gmail.com",
       "password": "12345",
+      "gender": "male",
+      "avatar": "",
       "quizList": [
         {
           "id": 1,
@@ -95,6 +97,8 @@
       "name": "aniket",
       "email": "aniket@gmail.com",
       "password": "12345",
+      "gender": "male",
+      "avatar": "",
       "quizList": []
     },
     {
@@ -102,6 +106,8 @@
       "name": "aman",
       "email": "aman@gmail.com",
       "password": "12345",
+      "gender": "male",
+      "avatar": "",
       "quizList": []
     }
   ],
