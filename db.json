@@ -3,146 +3,106 @@
     {
       "id": 1,
       "name": "varun",
-      "email": "varun@123",
-      "password": 12345,
-      "quizzes": [
+      "email": "varun@gmail.com",
+      "password": "12345",
+      "quizList": [
         {
           "id": 1,
-          "title": "Devops",
-          "question": "At its core, Kubernetes is a platform for:",
-          "description": null,
-          "options": {
-            "a": "Provisioning machines (similar to Puppet, Ansible)",
-            "b": "Running and scheduling container applications on a cluster",
-            "c": "Packaging software in containers",
-            "d": "None of the above"
-          },
-          "correct_answer": "b",
-          "result": {
-            "played": 4,
-            "players": [
-              {
-                "id": 1,
-                "name": "Rahul",
-                "point": 60
-              },
-              {
-                "id": 2,
-                "name": "Rishu",
-                "point": 70
-              },
-              {
-                "id": 3,
-                "name": "Riya",
-                "point": 90
-              },
-              {
-                "id": 4,
-                "name": "Shaurab",
-                "point": 60
-              }
-            ]
-          }
-        },
-        {
-          "id": 2,
-          "title": "Devops",
-          "question": "Which the the currently accepted best practice method for hashing passwords to hash passwords?",
-          "description": "Using bcrypt is the currently accepted best practice for hashing passwords, but a large number of developers still use older and weaker algorithms",
-          "options": {
-            "a": "bcrypt()",
-            "b": "md5()",
-            "c": "hash()",
-            "d": "encode()"
-          },
-          "correct_answer": "a",
-          "result": {
-            "played": 0,
-            "players": []
-          }
+          "totalPalyed": 4,
+          "players": [
+            {
+              "id": 1,
+              "name": "Rishu Raj",
+              "point": 90
+            },
+            {
+              "id": 2,
+              "name": "Aman Verma",
+              "point": 80
+            },
+            {
+              "id": 3,
+              "name": "Ketki Sharma",
+              "point": 80
+            },
+            {
+              "id": 4,
+              "name": "Arzoo Khan",
+              "point": 70
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What does a funambulist walk on?",
+              "correct_answer": "A Tight Rope",
+              "incorrect_answers": ["Broken Glass", "Balls", "The Moon"]
+            },
+            {
+              "question": "What alcoholic drink is made from molasses?",
+              "correct_answer": "Rum",
+              "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+            },
+            {
+              "question": "Who is depicted on the US hundred dollar bill?",
+              "correct_answer": "Benjamin Franklin",
+              "incorrect_answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+              ]
+            },
+            {
+              "question": "Which restaurant&#039;s mascot is a clown?",
+              "correct_answer": "McDonald&#039;s",
+              "incorrect_answers": ["Whataburger", "Burger King", "Sonic"]
+            },
+            {
+              "question": "What machine element is located in the center of fidget spinners?",
+              "correct_answer": "Bearings",
+              "incorrect_answers": ["Axles", "Gears", "Belts"]
+            },
+            {
+              "question": "What company developed the vocaloid Hatsune Miku?",
+              "correct_answer": "Crypton Future Media",
+              "incorrect_answers": ["Sega", "Sony", "Yamaha Corporation"]
+            },
+            {
+              "question": "What is Cynophobia the fear of?",
+              "correct_answer": "Dogs",
+              "incorrect_answers": ["Birds", "Flying", "Germs"]
+            },
+            {
+              "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+              "correct_answer": "MAN",
+              "incorrect_answers": ["EGLL", "LHR", "EGCC"]
+            },
+            {
+              "question": "What zodiac sign is represented by a pair of scales?",
+              "correct_answer": "Libra",
+              "incorrect_answers": ["Aries", "Capricorn", "Sagittarius"]
+            },
+            {
+              "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+              "correct_answer": "Medell&iacute;n",
+              "incorrect_answers": ["Bogot&aacute;", "Quito", "Cali"]
+            }
+          ]
         }
       ]
     },
     {
       "id": 2,
       "name": "aniket",
-      "email": "aniket@123",
-      "password": 12345,
-      "quizzes": [
-        {
-          "id": 1,
-          "title": "CMS",
-          "question": "What is moderate comment in WordPress.",
-          "description": null,
-          "options": {
-            "a": "Comments by admin on a post are not published directly unless the visitors provides it. It is called moderation.",
-            "b": "Comments by admin on a post are not published directly unless the clients provides it. It is called moderation.",
-            "c": "Comments by visitors on a post are not published directly unless the admin provides it. It is called moderation.",
-            "d": "None of the above"
-          },
-          "correct_answer": "c",
-          "result": {
-            "played": 4,
-            "players": [
-              {
-                "id": 1,
-                "name": "Aman",
-                "point": 90
-              },
-              {
-                "id": 2,
-                "name": "Rishu",
-                "point": 70
-              },
-              {
-                "id": 3,
-                "name": "Riya",
-                "point": 90
-              },
-              {
-                "id": 4,
-                "name": "Shaurab",
-                "point": 60
-              }
-            ]
-          }
-        },
-        {
-          "id": 2,
-          "title": "Linux",
-          "question": "Which command can be used to change file access permission bits?",
-          "description": null,
-          "options": {
-            "a": "chmod",
-            "b": "chown",
-            "c": "umask",
-            "d": "chperm"
-          },
-          "correct_answer": "a",
-          "result": {
-            "played": 2,
-            "players": [
-              {
-                "id": 1,
-                "name": "Sweta",
-                "point": 60
-              },
-              {
-                "id": 2,
-                "name": "Rishu",
-                "point": 70
-              }
-            ]
-          }
-        }
-      ]
+      "email": "aniket@gmail.com",
+      "password": "12345",
+      "quizList": []
     },
     {
       "id": 3,
       "name": "aman",
-      "email": "aman@123",
-      "password": 12345,
-      "quizzes": []
+      "email": "aman@gmail.com",
+      "password": "12345",
+      "quizList": []
     }
   ],
   "global_ranking": [
