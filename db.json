@@ -10,7 +10,7 @@
       "quizList": [
         {
           "id": 1,
-          "totalPalyed": 4,
+          "totalPlayed": 4,
           "players": [
             {
               "id": 1,
@@ -30,7 +30,7 @@
             {
               "id": 4,
               "name": "Arzoo Khan",
-              "points": 70
+              "points": 110
             }
           ],
           "quiz": [
