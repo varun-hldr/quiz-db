@@ -15,22 +15,22 @@
             {
               "id": 1,
               "name": "Rishu Raj",
-              "point": 90
+              "points": 90
             },
             {
               "id": 2,
               "name": "Aman Verma",
-              "point": 80
+              "points": 80
             },
             {
               "id": 3,
               "name": "Ketki Sharma",
-              "point": 80
+              "points": 80
             },
             {
               "id": 4,
               "name": "Arzoo Khan",
-              "point": 70
+              "points": 70
             }
           ],
           "quiz": [
