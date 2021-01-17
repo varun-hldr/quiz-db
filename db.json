@@ -30,6 +30,252 @@
             {
               "id": 4,
               "name": "Arzoo Khan",
+              "points": 10
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What does a funambulist walk on?",
+              "correct_answer": "A Tight Rope",
+              "incorrect_answers": ["Broken Glass", "Balls", "The Moon"]
+            },
+            {
+              "question": "What alcoholic drink is made from molasses?",
+              "correct_answer": "Rum",
+              "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+            },
+            {
+              "question": "Who is depicted on the US hundred dollar bill?",
+              "correct_answer": "Benjamin Franklin",
+              "incorrect_answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+              ]
+            },
+            {
+              "question": "Which restaurant&#039;s mascot is a clown?",
+              "correct_answer": "McDonald&#039;s",
+              "incorrect_answers": ["Whataburger", "Burger King", "Sonic"]
+            },
+            {
+              "question": "What machine element is located in the center of fidget spinners?",
+              "correct_answer": "Bearings",
+              "incorrect_answers": ["Axles", "Gears", "Belts"]
+            },
+            {
+              "question": "What company developed the vocaloid Hatsune Miku?",
+              "correct_answer": "Crypton Future Media",
+              "incorrect_answers": ["Sega", "Sony", "Yamaha Corporation"]
+            },
+            {
+              "question": "What is Cynophobia the fear of?",
+              "correct_answer": "Dogs",
+              "incorrect_answers": ["Birds", "Flying", "Germs"]
+            },
+            {
+              "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+              "correct_answer": "MAN",
+              "incorrect_answers": ["EGLL", "LHR", "EGCC"]
+            },
+            {
+              "question": "What zodiac sign is represented by a pair of scales?",
+              "correct_answer": "Libra",
+              "incorrect_answers": ["Aries", "Capricorn", "Sagittarius"]
+            },
+            {
+              "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+              "correct_answer": "Medell&iacute;n",
+              "incorrect_answers": ["Bogot&aacute;", "Quito", "Cali"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "totalPlayed": 4,
+          "players": [
+            {
+              "id": 1,
+              "name": "Rishu Raj",
+              "points": 90
+            },
+            {
+              "id": 2,
+              "name": "Aman Verma",
+              "points": 80
+            },
+            {
+              "id": 3,
+              "name": "Ketki Sharma",
+              "points": 80
+            },
+            {
+              "id": 4,
+              "name": "Arzoo Khan",
+              "points": 110
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What does a funambulist walk on?",
+              "correct_answer": "A Tight Rope",
+              "incorrect_answers": ["Broken Glass", "Balls", "The Moon"]
+            },
+            {
+              "question": "What alcoholic drink is made from molasses?",
+              "correct_answer": "Rum",
+              "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+            },
+            {
+              "question": "Who is depicted on the US hundred dollar bill?",
+              "correct_answer": "Benjamin Franklin",
+              "incorrect_answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+              ]
+            },
+            {
+              "question": "Which restaurant&#039;s mascot is a clown?",
+              "correct_answer": "McDonald&#039;s",
+              "incorrect_answers": ["Whataburger", "Burger King", "Sonic"]
+            },
+            {
+              "question": "What machine element is located in the center of fidget spinners?",
+              "correct_answer": "Bearings",
+              "incorrect_answers": ["Axles", "Gears", "Belts"]
+            },
+            {
+              "question": "What company developed the vocaloid Hatsune Miku?",
+              "correct_answer": "Crypton Future Media",
+              "incorrect_answers": ["Sega", "Sony", "Yamaha Corporation"]
+            },
+            {
+              "question": "What is Cynophobia the fear of?",
+              "correct_answer": "Dogs",
+              "incorrect_answers": ["Birds", "Flying", "Germs"]
+            },
+            {
+              "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+              "correct_answer": "MAN",
+              "incorrect_answers": ["EGLL", "LHR", "EGCC"]
+            },
+            {
+              "question": "What zodiac sign is represented by a pair of scales?",
+              "correct_answer": "Libra",
+              "incorrect_answers": ["Aries", "Capricorn", "Sagittarius"]
+            },
+            {
+              "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+              "correct_answer": "Medell&iacute;n",
+              "incorrect_answers": ["Bogot&aacute;", "Quito", "Cali"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "totalPlayed": 4,
+          "players": [
+            {
+              "id": 1,
+              "name": "Rishu Raj",
+              "points": 90
+            },
+            {
+              "id": 2,
+              "name": "Aman Verma",
+              "points": 110
+            },
+            {
+              "id": 3,
+              "name": "Ketki Sharma",
+              "points": 80
+            },
+            {
+              "id": 4,
+              "name": "Arzoo Khan",
+              "points": 30
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What does a funambulist walk on?",
+              "correct_answer": "A Tight Rope",
+              "incorrect_answers": ["Broken Glass", "Balls", "The Moon"]
+            },
+            {
+              "question": "What alcoholic drink is made from molasses?",
+              "correct_answer": "Rum",
+              "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+            },
+            {
+              "question": "Who is depicted on the US hundred dollar bill?",
+              "correct_answer": "Benjamin Franklin",
+              "incorrect_answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+              ]
+            },
+            {
+              "question": "Which restaurant&#039;s mascot is a clown?",
+              "correct_answer": "McDonald&#039;s",
+              "incorrect_answers": ["Whataburger", "Burger King", "Sonic"]
+            },
+            {
+              "question": "What machine element is located in the center of fidget spinners?",
+              "correct_answer": "Bearings",
+              "incorrect_answers": ["Axles", "Gears", "Belts"]
+            },
+            {
+              "question": "What company developed the vocaloid Hatsune Miku?",
+              "correct_answer": "Crypton Future Media",
+              "incorrect_answers": ["Sega", "Sony", "Yamaha Corporation"]
+            },
+            {
+              "question": "What is Cynophobia the fear of?",
+              "correct_answer": "Dogs",
+              "incorrect_answers": ["Birds", "Flying", "Germs"]
+            },
+            {
+              "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+              "correct_answer": "MAN",
+              "incorrect_answers": ["EGLL", "LHR", "EGCC"]
+            },
+            {
+              "question": "What zodiac sign is represented by a pair of scales?",
+              "correct_answer": "Libra",
+              "incorrect_answers": ["Aries", "Capricorn", "Sagittarius"]
+            },
+            {
+              "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+              "correct_answer": "Medell&iacute;n",
+              "incorrect_answers": ["Bogot&aacute;", "Quito", "Cali"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "totalPlayed": 4,
+          "players": [
+            {
+              "id": 1,
+              "name": "Rishu Raj",
+              "points": 90
+            },
+            {
+              "id": 2,
+              "name": "Aman Verma",
+              "points": 90
+            },
+            {
+              "id": 3,
+              "name": "Ketki Sharma",
+              "points": 130
+            },
+            {
+              "id": 4,
+              "name": "Arzoo Khan",
               "points": 110
             }
           ],
